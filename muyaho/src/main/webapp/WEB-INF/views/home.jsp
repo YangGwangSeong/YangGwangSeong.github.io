@@ -12,7 +12,7 @@
 <h1>
 	Hello world!  
 </h1>
-<di>버전1</di>
+<div>버전1</div>
 <div>한글?123123 이걸 이렇게 수정한다면?</div>
 <P>  The time on the server is ${serverTime}. </P>
 </body>
